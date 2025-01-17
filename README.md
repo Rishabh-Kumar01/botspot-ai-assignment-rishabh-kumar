@@ -109,7 +109,7 @@ The application implements a comprehensive error handling system:
 ### Prerequisites
 
 - Node.js v18
-- MongoDB v6
+- MongoDB v7
 - npm or yarn package manager
 
 ### Installation
@@ -219,7 +219,7 @@ Authorization: Bearer <your_jwt_token>
 ## Postman Collection
 
 You can test the API using the Postman url or Postman collection:
-[Task Management API Collection Download](./BotSpot%20AI%20Task%20Manager%20Assignment%20Rishabh%20Kumar.postman_collection.json)
+[Task Management API Collection](./BotSpot%20AI%20Task%20Manager%20Assignment%20Rishabh%20Kumar.postman_collection.json)
 
 To use the collection:
 
